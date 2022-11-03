@@ -1,0 +1,5 @@
+com\product\bo\ProductBO.class
+com\product\bo\ProductBOImpl.class
+com\product\dao\ProductDAOImpl.class
+com\product\dao\ProductDAO.class
+com\product\dto\Product.class
